@@ -1,0 +1,10 @@
+{
+  "Infinite Yield": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()",
+    "description": ""
+  },
+  "CMD-X": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source\"))()",
+    "description": "A ROBLOX admin script with over 600 commands."
+  }
+}
